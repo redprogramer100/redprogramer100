@@ -45,6 +45,7 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)
 
 ### Microelectronics & Hardware Tools
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-05122A?style=flat)
 ![Quartus](https://img.shields.io/badge/-Quartus-05122A?style=flat)
 ![ModelSim](https://img.shields.io/badge/-ModelSim-05122A?style=flat)
 ![LTspice](https://img.shields.io/badge/-LTspice-05122A?style=flat)
@@ -56,6 +57,21 @@
 ![Fusion360](https://img.shields.io/badge/-Fusion360-05122A?style=flat)
 ![3D Printing](https://img.shields.io/badge/-3D%20Printing-05122A?style=flat)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoft)
+
+---
+
+# 🔌 PCB Design Portfolio
+
+15 printed circuit boards designed in **EasyEDA**, from schematic to Gerber files: isolated 4–20 mA and pulse-input modules, ESP32-S3 motor analyzers, FPGA interface boards and power supplies.
+
+<p align="center">
+<a href="https://github.com/redprogramer100/PCB-Design-Portfolio">
+<img src="https://raw.githubusercontent.com/redprogramer100/PCB-Design-Portfolio/main/projects/08-contador-de-pulsos/images/pcb_cara_top.png" width="45%"/>
+<img src="https://raw.githubusercontent.com/redprogramer100/PCB-Design-Portfolio/main/projects/07-modulo-aislado-4-20ma/images/pcb_cara_top.png" width="45%"/>
+</a>
+</p>
+
+👉 **[View the full portfolio](https://github.com/redprogramer100/PCB-Design-Portfolio)**
 
 ---
 
